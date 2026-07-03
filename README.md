@@ -1,8 +1,8 @@
-# DIDADI
+# Didadi
 
 ![DIDADI preview](screenshot.png)
 
-DIDADI is a fixed Obsidian app theme prepared for Tommy's DIDADI vault style.
+Didadi is a fixed Obsidian app theme prepared for Tommy's DIDADI vault style.
 
 The theme is packaged as an independent app theme. It works without Yue, without the Style Settings plugin, and without CSS snippets. All heading levels, from H1 through H6, use the same DIDADI heading color by default.
 
@@ -15,13 +15,13 @@ The theme is packaged as an independent app theme. It works without Yue, without
 
 ## Install Manually
 
-1. Copy this repository folder to `.obsidian/themes/DIDADI` in an Obsidian vault.
+1. Copy this repository folder to `.obsidian/themes/Didadi` in an Obsidian vault.
 2. In Obsidian, open Settings, then Appearance.
-3. Select `DIDADI` from the theme dropdown.
+3. Select `Didadi` from the theme dropdown.
 
 ## Community Directory Notes
 
-The display name is `DIDADI`. The GitHub repository may be named `DIDADI-theme`, but the theme name itself should not contain the word `Theme` because Obsidian Community directory names disallow it for themes.
+The display name is `Didadi`. The GitHub repository may be named `DIDADI-obsidian-theme`, but the theme name itself should not contain the word `Theme` because Obsidian Community directory names disallow it for themes.
 
 This theme is an independent CSS variables theme. Yue and Style Settings were used only as a visual reference while identifying the desired vault appearance; their CSS is not included.
 
