@@ -192,7 +192,7 @@ body {
 }
 
 .callout[data-callout] {
-  --callout-color: 255, 89, 0;
+  --callout-color: rgb(255, 89, 0);
 }
 
 .markdown-rendered mark,
